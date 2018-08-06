@@ -1,0 +1,47 @@
+{
+  "name": "readdir-sync-recursive",
+  "version": "1.0.0",
+  "description": "Recursively crawl through directories",
+  "license": "MIT",
+  "author": {
+    "name": "Andrew Musgrave",
+    "email": "andrewdmusgrave@gmail.com",
+    "url": "https://github.com/AndrewMusgrave"
+  },
+  "repository": "AndrewMusgrave/readdir-sync-recursive",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "index.js"
+  ],
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  },
+  "devDependencies": {
+    "jest": "^23.4.2"
+  },
+  "keywords": [
+    "dir",
+    "directory",
+    "readdir",
+    "fs-readdir",
+    "recursive-readdir",
+    "recursive-readdir-sync",
+    "read",
+    "folder",
+    "parse",
+    "file",
+    "crawl",
+    "recursive",
+    "sync",
+    "fs",
+    "performance",
+    "fastest",
+    "list"
+  ]
+}
